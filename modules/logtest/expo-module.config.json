@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["LogtestModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.logtest.LogtestModule"]
+  }
+}
